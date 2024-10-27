@@ -1,0 +1,181 @@
+ [
+    {
+        "name": "Premium Leather Bag",
+        "description": "Handcrafted leather bag with multiple compartments and adjustable strap. Ideal for daily use or travel.",
+        "price": 129.99,
+        "image": "https://m.media-amazon.com/images/I/A1rzOr-ILpL.jpg"
+        
+        
+    },
+    {
+        "name": "Smart Watch Series 5",
+        "description": "Advanced smartwatch with GPS, heart rate monitoring, and waterproof design. Comes in multiple colors.",
+        "price": 199.99,
+        "image": "https://m.media-amazon.com/images/I/61VOsDscc2L._AC_UF1000,1000_QL80_.jpg"
+        
+
+        
+    },
+    {
+        "name": "Wireless Noise Cancellation Headphones",
+        "description": "High-fidelity wireless headphones with active noise cancellation and up to 30 hours of battery life.",
+        "price": 299.99,
+        "image": "https://www.reliancedigital.in/medias/HP-300-Wireless-Headphone-494443284-i-2-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjc5MDh8aW1hZ2UvanBlZ3xpbWFnZXMvaDMxL2hhNS8xMDE4MzkyMjgxMDkxMC5qcGd8NDY2NzFjNTYyNjQ4Mjc5YzNkYzQ3YTAwMTEzOTgzNjk5NDFiZDU4YjkxZGNiYjMxZjA0MmRmNTM1MzVlN2M3OA"
+    },
+    {
+        "name": "Designer UV Sunglasses",
+        "description": "Fashionable sunglasses with UV protection and scratch-resistant lenses. Available in various styles.",
+        "price": 79.99,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfk3T3ULaCYNH8l2ZRNEPPrQFAM5xUTy-nJeAaLjwf2Scjijs5TUZ-pHi-coc0pt9Xs3vE_xAZOGtekH9otE1pTsjdaNHGuQV3DixTbGmohWvg2gH3mbHV&usqp=CAc"
+    },
+    {
+        "name": "Gourmet Coffee Gift Set",
+        "description": "A curated selection of gourmet coffee beans from around the world. Perfect gift for coffee lovers.",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/400x300?text=Gourmet+Coffee+Gift+Set"
+    },
+    {
+        "name": "Fitness Tracker Bracelet",
+        "description": "Waterproof fitness tracker with heart rate monitor, sleep tracking, and smartphone notifications.",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/400x300?text=Fitness+Tracker+Bracelet"
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with powerful sound and built-in microphone for hands-free calls.",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/400x300?text=Bluetooth+Speaker"
+    },
+    {
+        "name": "Professional Chef's Knife",
+        "description": "High-quality chef's knife made from Damascus steel. Perfect for slicing and dicing in the kitchen.",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/400x300?text=Chef's+Knife"
+    },
+    {
+        "name": "Digital SLR Camera",
+        "description": "High-resolution DSLR camera with interchangeable lenses and Wi-Fi capability for instant sharing.",
+        "price": 599.99,
+        "image": "https://via.placeholder.com/400x300?text=Digital+SLR+Camera"
+    },
+    {
+        "name": "Electric Kettle",
+        "description": "Stainless steel electric kettle with auto shut-off and boil-dry protection for added safety.",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/400x300?text=Electric+Kettle"
+    },
+    {
+        "name": "Gaming Mouse",
+        "description": "Ergonomic gaming mouse with customizable RGB lighting and adjustable DPI settings.",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/400x300?text=Gaming+Mouse"
+    },
+    {
+        "name": "4K Ultra HD Television",
+        "description": "55-inch 4K Ultra HD smart TV with HDR and streaming apps built-in for seamless viewing.",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/400x300?text=4K+Ultra+HD+Television"
+    },
+    {
+        "name": "Luxury Perfume",
+        "description": "Long-lasting luxury perfume with a unique blend of exotic fragrances for special occasions.",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/400x300?text=Luxury+Perfume"
+    },
+    {
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with multiple cleaning modes and a 2-minute timer.",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/400x300?text=Electric+Toothbrush"
+    },
+    {
+        "name": "Yoga Mat",
+        "description": "Eco-friendly yoga mat with non-slip surface and comfortable cushioning for exercise sessions.",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/400x300?text=Yoga+Mat"
+    },
+    {
+        "name": "LED Desk Lamp",
+        "description": "Adjustable LED desk lamp with touch control, multiple brightness levels, and USB charging.",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/400x300?text=LED+Desk+Lamp"
+    },
+    {
+        "name": "Noise Cancelling Earbuds",
+        "description": "Compact earbuds with active noise cancellation and Bluetooth 5.0 connectivity.",
+        "price": 69.99,
+        "image": "https://via.placeholder.com/400x300?text=Noise+Cancelling+Earbuds"
+    },
+    {
+        "name": "Stainless Steel Water Bottle",
+        "description": "Insulated water bottle to keep beverages cold or hot for extended periods.",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/400x300?text=Stainless+Steel+Water+Bottle"
+    },
+    {
+        "name": "Adjustable Dumbbell Set",
+        "description": "Space-saving adjustable dumbbell set ideal for a home gym setup.",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/400x300?text=Adjustable+Dumbbell+Set"
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "description": "Fast wireless charging pad compatible with most smartphones and wireless earbuds.",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/400x300?text=Wireless+Charging+Pad"
+    },
+    {
+        "name": "Electric Scooter",
+        "description": "Compact electric scooter with a powerful motor and foldable design for easy commuting.",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/400x300?text=Electric+Scooter"
+    },
+    {
+        "name": "Linen Bed Sheet Set",
+        "description": "Soft and breathable bed sheet set made from 100% linen, perfect for a restful sleep.",
+        "price": 69.99,
+        "image": "https://via.placeholder.com/400x300?text=Linen+Bed+Sheet+Set"
+    },
+    {
+        "name": "Wireless Keyboard and Mouse Combo",
+        "description": "Compact wireless keyboard and mouse combo, ideal for office and remote work.",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/400x300?text=Wireless+Keyboard+Mouse+Combo"
+    },
+    {
+        "name": "Bluetooth Headset",
+        "description": "Hands-free Bluetooth headset with clear sound quality and comfortable fit for calls.",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/400x300?text=Bluetooth+Headset"
+    },
+    {
+        "name": "Smart Home Camera",
+        "description": "Wi-Fi-enabled security camera with night vision and motion detection for home monitoring.",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/400x300?text=Smart+Home+Camera"
+    },
+    {
+        "name": "Portable Projector",
+        "description": "Mini portable projector with high-definition display, perfect for movie nights.",
+        "price": 159.99,
+        "image": "https://via.placeholder.com/400x300?text=Portable+Projector"
+    },
+    {
+        "name": "Air Fryer",
+        "description": "Compact air fryer for healthier cooking with little to no oil.",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/400x300?text=Air+Fryer"
+    },
+    {
+        "name": "Cordless Vacuum Cleaner",
+        "description": "Lightweight and powerful cordless vacuum cleaner, ideal for homes and cars.",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/400x300?text=Cordless+Vacuum+Cleaner"
+    },
+    {
+        "name": "Electric Drill Set",
+        "description": "Complete electric drill set with various bits and accessories for DIY projects.",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/400x300?text=Electric+Drill+Set"
+    }
+]
